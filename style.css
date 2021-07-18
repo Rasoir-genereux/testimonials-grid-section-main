@@ -38,6 +38,10 @@ body{
   color: var(--Very_dark_blackish_blue);
 }
 
+bloc:hover{
+  border: 1px solid black;
+}
+
 .bloc1{
   grid-column:1/3 ;
   grid-row: 1/2;
