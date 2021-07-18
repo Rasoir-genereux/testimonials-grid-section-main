@@ -25,7 +25,7 @@ body{
   grid-template-rows: 270px 256px;
   grid-gap: 30px 30px;
   justify-content: center;
-  margin: 30px auto ;
+  margin: 50px auto ;
   height: auto;
 }
 
