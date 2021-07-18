@@ -152,7 +152,8 @@ h3{
 }
 
 .bloc:hover{
-  border: 0.2px solid rgba(0, 0, 0, 0.5);
+  border-bottom: 0.2px solid rgba(0, 0, 0, 0.5);
+  border-right: 0.2px solid rgba(0, 0, 0, 0.5);
   transform: scaleX(1.005) scaleY(1.005);
 }
 
